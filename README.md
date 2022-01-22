@@ -31,6 +31,6 @@ The following images shows final work of the application functionality
 
 submit review:
 
-* The URL of the deplyer application. ![submit]
+* The URL of the deplyer application. [submitted](https://bompilori.github.io/JavaScript-quiz/)
 
-* The URL of the GitHub repository. ![submit]
+* The URL of the GitHub repository. [submitted](https://github.com/bompilori/JavaScript-quiz.git)
